@@ -1,2 +1,3 @@
 H29_j5_project_EEcard
-Unity ver5.35
+
+Unity 2017 3.0
